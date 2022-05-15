@@ -1,12 +1,17 @@
 <h1>Hi, I'm Elvis! 
 
-<h2>👨‍💻 Cyber Security, Software Development & IT Projects:</h2>
-
+<h2>👨‍💻🛡️ Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab ](https://github.com/elvisnunezzz/LABURL)
+  
+<h2>👨‍💻🖥️IT Projects:</h2>
+  
   - [Active Directory Home Lab ](https://github.com/elvisnunezzz/LABURL)
-  - [Banking System ](https://github.com/elvisnunezzz/LABURL)
- 
+  
+<h2>👨‍💻⚙️ Software Development Projects:</h2>
+  
+ - [Active Directory Home Lab ](https://github.com/elvisnunezzz/LABURL)
+
  <h2>📜Certificiations</h2>
   
 - [Network+ ](https://github.com/elvisnunezzz/LABURL)
