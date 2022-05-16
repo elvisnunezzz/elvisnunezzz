@@ -8,7 +8,7 @@
   
   - [Active Directory Home Lab ](https://github.com/elvisnunezzz/LABURL)
   - [Microsoft 365 Tool ](https://github.com/elvisnunezzz/365)
-  - [Common Level 1 IT Issues ](https://github.com/elvisnunezzz/LABURL)
+  - [Common Level 1 IT Issues ](https://github.com/elvisnunezzz/CommonIssues)
   
 <h2>👨‍💻⚙️ Software Development Projects:</h2>
   
