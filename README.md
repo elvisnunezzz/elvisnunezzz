@@ -3,6 +3,7 @@
 <h2>👨‍💻🛡️ Cyber Security Projects:</h2>
 
   - [Vulnerability ManagementHome Lab ](https://github.com/elvisnunezzz/Vulnerability-Management)
+  - [Hashing Algorithms + Coding up a File Integrity Monitor ](https://github.com/elvisnunezzz/Vulnerability-Management)
   
 <h2>👨‍💻🖥️IT Projects:</h2>
   
