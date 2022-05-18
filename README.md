@@ -12,7 +12,9 @@
   
 <h2>👨‍💻⚙️ Software Development Projects:</h2>
   
- - [Active Directory Home Lab ](https://github.com/elvisnunezzz/LABURL)
+ - [Data Visualization ](https://github.com/elvisnunezzz/Data-Visualization)
+  
+  
  <h2>📜Certificiations</h2>
   
 - [Network+ ](https://github.com/elvisnunezzz/LABURL)
