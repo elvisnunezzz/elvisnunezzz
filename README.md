@@ -18,7 +18,6 @@
   
  <h2>📜Certificiations</h2>
   
-- [Network+ ](https://github.com/elvisnunezzz/LABURL)
   
 
 <h2>📺 Popular YouTube Videos</h2>
