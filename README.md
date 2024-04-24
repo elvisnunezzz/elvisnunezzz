@@ -21,6 +21,8 @@
 <h2> </>💻Java:</h2>
 
  - [Leap Year](https://github.com/elvisnunezzz/Leap-Year)
+ - [Grade Assigner](https://github.com/elvisnunezzz/Grade-Assigner)
+ - [Triangle Printer](https://github.com/elvisnunezzz/Triangle-Printer)
 
   
   
